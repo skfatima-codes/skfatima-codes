@@ -1,7 +1,6 @@
 # 👩‍💻 Syeda Kaneez Fatima
 
-🎓 First-Year Computer Science Undergraduate
-   CS Student  
+🎓 First-Year Computer Science Undergraduate Student  
 💡 Learning Python, Web Development, and Java  
 🧠 Passionate about logic building and real-world projects
 
