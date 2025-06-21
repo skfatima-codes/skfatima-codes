@@ -1,14 +1,16 @@
 # 👩‍💻 Syeda Kaneez Fatima
 
-🎓 First-Year CS Student   
+🎓 First-Year Undergraduate CS Student
+CS Student  
+💡 Learning Python, Web Development, and Java  
 🧠 Passionate about logic building and real-world projects
 
 ## 🌱 Current Focus
-- Python 
+- Python Practice
 - HTML & CSS Fundamentals
 - Building Projects
 
 ## 📫 Connect with Me
-[GitHub Profile](https://github.com/skfatima-codesgi)
+[GitHub Profile](https://github.com/skfatima-codes)
 
 
