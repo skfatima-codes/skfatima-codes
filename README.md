@@ -1,7 +1,6 @@
 #  Syeda Kaneez Fatima
 
-  Learning Python, Web Development, and Java  
- Passionate about logic building and real-world projects
+Passionate about logic building and real-world projects
 
 ##  Current Focus
 - Python
