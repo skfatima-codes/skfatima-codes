@@ -1,8 +1,9 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Syeda Kaneez Fatima</h1>
 <h3 align="center">Aspiring Computer Science Student | BSCS (2nd Semester) – UBIT, University of Karachi</h3>
 
-<img align="right" alt="coding" width="300" src="https://media.tenor.com/2uyENRxiLgAAAAAC/coding.gif">
+
+<img align="right" alt="coding" width="300" src="">
 
 ---
 
@@ -95,3 +96,4 @@ A basic even/odd game using user input and logic.
 </p>
 
 
+![4416626](https://github.com/user-attachments/assets/f39f4da3-104b-4467-935f-5dffdb91b220)
