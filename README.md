@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="images/202011_04.jpg" alt="Description of image" width="500">
-</p>
+![Description of image](![Uploading 202011_04.jpg…]()
+)
+
 
 
 <h1 align="center">Hi 👋, I'm Syeda Kaneez Fatima</h1>
