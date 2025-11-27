@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Computer Science Student | BSCS (2nd Semester) – UBIT, University of Karachi</h3>
 
 
-<img align="right" alt="coding" width="300" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTFrcmRTY0FfbW95WVp2VjRaU1pFSzVRbjV0UXxBQ3Jtc0trd0NKRGtBa09BV0lnQlpqRjBtRnBNSEFXVk1fbUhLenNwbjdRYWltalg0aTl0c0dhSlRwZlpCMEZSWEt6R3JvQmF6bWQ3Tnh5bERyZ0tMRmJIZXZYQ3piYnozdXh2VFNYTUhCQWh0NDRHei1fSmtxTQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+<img align="right" alt="coding" width="300" src="">
 
 ---
 
@@ -15,9 +15,12 @@
 
 ---
 
-### 👯 I’m looking to collaborate on
-- Beginner Python projects  
-- Java beginner projects  
+### 🚀 Excited to work on
+- Beginner-friendly Python projects to strengthen coding fundamentals
+- Wants to learn python libraries  
+- Simple Java projects for learning and practice  
+- Small open-source contributions suitable for beginners  
+ 
 
 ### 🤝 Interested in
 - Python libraries (NumPy, Pandas, Matplotlib)  
@@ -57,10 +60,15 @@ A basic even/odd game using user input and logic.
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://github.com/skfatima-codes/skfatima-codes" target="_blank">
-<img src="https://img.icons8.com/material-outlined/48/github.png" width="40"/>
-</a>
+  <a href="https://github.com/skfatima-codes/skfatima-codes" target="_blank">
+    <img src="https://img.icons8.com/material-outlined/48/github.png" width="40"/>
+  </a>
+
+  <a href="https://www.instagram.com/skfatima144" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/instagram-new.png" width="40"/>
+  </a>
 </p>
+
 
 ---
 
@@ -96,4 +104,4 @@ A basic even/odd game using user input and logic.
 </p>
 
 
-![4416626](https://github.com/user-attachments/assets/f39f4da3-104b-4467-935f-5dffdb91b220)
+
