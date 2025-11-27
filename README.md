@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/202011_04.jpg" alt="Description of image" width="500">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Syeda Kaneez Fatima</h1>
 <h3 align="center">Aspiring Computer Science Student | BSCS (2nd Semester) – UBIT, University of Karachi</h3>
@@ -11,15 +15,16 @@
 - I'm currently a **2nd semester BSCS student at UBIT, University of Karachi**
 - Beginner in **Python** and **Java**
 - Interested in learning **Python libraries (NumPy, Pandas, Matplotlib)** and **Web Development**
-- I enjoy building simple games and logic-based projects
+- I enjoy building simple and logic-based projects
 
 ---
 
 ### 🚀 Excited to work on
-- Beginner-friendly Python projects to strengthen coding fundamentals
-- Wants to learn python libraries  
-- Simple Java projects for learning and practice  
+- Beginner-friendly Python projects to strengthen coding fundamentals  
+- Exploring and contributing to Python libraries  
+- Simple Java projects for learning and hands-on practice  
 - Small open-source contributions suitable for beginners  
+  
  
 
 ### 🤝 Interested in
@@ -28,12 +33,12 @@
 
 ---
 
-### 💬 Ask me about
-- Python basics  
-- Java basics  
-- OOP  
-- Simple games  
-- Beginner-friendly projects  
+### 💬 Skills & Areas I Can Help With
+- Python fundamentals and basic programming concepts  
+- Java fundamentals and object-oriented programming (OOP)  
+- HTML & CSS basics for web development  
+- Beginner-friendly coding projects and practice exercises  
+  
 
 ---
 
