@@ -1,11 +1,11 @@
-<p align="center">
-  <img src="/young-woman-uses-computer-work-reduce-infection\202011_04.jpg" alt="Young woman using computer" width="300"/>
-</p>
-
+![202011_04](https://github.com/user-attachments/assets/788f6717-e6e8-40ea-96a2-fe5f5bab23c2)
 
 
 <h1 align="center">Hi 👋, I'm Syeda Kaneez Fatima</h1>
+
+
 <h3 align="center">Aspiring Computer Science Student | BSCS (2nd Semester) – UBIT, University of Karachi</h3>
+
 
 
 
