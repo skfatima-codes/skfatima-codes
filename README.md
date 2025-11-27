@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="young-woman-uses-computer-work-reduce-infection\202011_04.jpg" alt="Young woman using computer" width="300"/>
+  <img src="/young-woman-uses-computer-work-reduce-infection\202011_04.jpg" alt="Young woman using computer" width="300"/>
 </p>
 
 
