@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Syeda Kaneez Fatima</h1>
 
 
-<h3 align="center">Aspiring Computer Science Student | BSCS (2nd Semester) – UBIT, University of Karachi</h3>
+<h3 align="center">Budding Computer Science Student | BSCS (2nd Semester) – UBIT, University of Karachi</h3>
 
 
 
