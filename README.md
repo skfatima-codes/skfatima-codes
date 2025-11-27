@@ -1,5 +1,6 @@
-![Description of image](![Uploading 202011_04.jpg…]()
-)
+<p align="center">
+  <img src="C:\Users\Kaneez\Downloads\young-woman-uses-computer-work-reduce-infection\202011_04.jpg" alt="Young woman using computer" width="300"/>
+</p>
 
 
 
