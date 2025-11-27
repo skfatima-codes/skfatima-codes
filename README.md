@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Computer Science Student | BSCS (2nd Semester) – UBIT, University of Karachi</h3>
 
 
-<img align="right" alt="coding" width="300" src="">
+
 
 ---
 
