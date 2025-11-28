@@ -56,7 +56,7 @@ A simple counter management system using Python OOP.
 
 ### 🔹 Java Chatbot
 A beginner-friendly Java chatbot using basic input handling and conditionals.  
-🔗 **Repository:** https://github.com/skfatima-codes/java-chatbot
+🔗 **Repository:** https://github.com/skfatima-codes/Java-Chatbots
 
 ### 🔹 Even-Odd Game (Java)
 A basic even/odd game using user input and logic.  
