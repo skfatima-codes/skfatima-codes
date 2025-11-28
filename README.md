@@ -52,7 +52,7 @@
 
 ### 🔹 Counter Manager (Python OOP)
 A simple counter management system using Python OOP.  
-🔗 **Repository:** https://github.com/skfatima-codes/counter-manager
+🔗 **Repository:** https://github.com/skfatima-codes/CounterManager
 
 ### 🔹 Java Chatbot
 A beginner-friendly Java chatbot using basic input handling and conditionals.  
