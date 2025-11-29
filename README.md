@@ -46,6 +46,7 @@
 ### 📫 How to reach me
 **skaneezfatima188@gmail.com**
 
+
 ---
 
 ## 🛠️ Projects
@@ -73,7 +74,13 @@ A basic even/odd game using user input and logic.
   <a href="https://www.instagram.com/skfatima144" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/48/instagram-new.png" width="40"/>
   </a>
+
+  <a href="https://www.linkedin.com/in/syeda-kaneez-fatima-13383b383/
+" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/48/linkedin.png" width="40"/>
+  </a>
 </p>
+
 
 
 ---
