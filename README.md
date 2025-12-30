@@ -101,17 +101,6 @@ Currently working on expanding my portfolio with more data science and software 
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=skfatima-codes&theme=radical&no-frame=true&row=1&column=6)](https://github.com/skfatima-codes)
-
-</div>
-
----
-
-<div align="center">
 
 ### 👀 Profile Views
 
