@@ -1,17 +1,25 @@
 # 💫 About Me
 I’m a **curious developer** who loves turning ideas into code and exploring patterns in data.  
 
-🔍 **What I do:** Learning **Python OOP** and building structured programs, while practicing **Java basics** to strengthen my foundation.  
+🔹 **Languages & Learning:**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) Learning **Python OOP**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) Practicing **Java basics**  
 
-🛠 **Current project:** Developing a **Burnout Routine Analysis System** using **Pandas** and **Matplotlib** to visualize behavioral patterns.  
+🔹 **Current Project:**  
+![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)  
+Developing a **Burnout Routine Analysis System** to visualize behavioral patterns.  
 
-🎓 **Journey so far:** From simple Java programs to Python OOP projects, I enjoy understanding how logic, structure, and creativity come together in coding.  
+🔹 **Journey so far:**  
+From simple Java programs to Python OOP projects, I enjoy combining **logic**, **structure**, and **creativity** to solve problems.  
 
-🤝 **I’m looking to:** Collaborate on Python projects, improve coding skills, and learn advanced programming concepts.  
+🔹 **Collaboration & Learning:**  
+Open to collaborating on **Python projects** and improving my understanding of **advanced programming concepts**.  
 
-💬 **Ask me about:** Python libraries (Pandas, NumPy, Matplotlib) and my “dry-run first” approach to problem-solving.  
+🔹 **Ask me about:**  
+Python libraries (Pandas, NumPy, Matplotlib) and my “dry-run first” approach to problem-solving.  
 
-⚡ **Fun fact:** I solve logic problems on paper before writing code—my dry-run sketches often save me hours in debugging!  
+⚡ **Fun fact:** I solve logic problems on paper before coding—my dry-run sketches often save hours in debugging!  
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/skfatima144) 
@@ -23,12 +31,18 @@ I’m a **curious developer** who loves turning ideas into code and exploring pa
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) *(beginner level)*
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=skfatima-codes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=skfatima-codes&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=skfatima-codes&theme=dark&hide_border=false&include_all_commits=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=skfatima-codes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+[![](https://visitcount.itsvg.in/api?id=skfatima-codes&icon=0&color=0)](https://visitcount.itsvg.in)
