@@ -1,48 +1,46 @@
-# 💫 About Me
-I’m a **curious developer** who loves turning ideas into code and exploring patterns in data.  
+# 🚀 Syeda Kaneez Fatima  
+**Computer Science undergrad** | Data patterns hunter | Code sketcher  
 
-🔹 **Languages & Learning:**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) Learning **Python OOP**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) Practicing **Java basics**  
+I'm turning coffee-fueled ideas into data-driven solutions, one dry-run doodle at a time. Aiming for **data science** where I can decode real-world chaos through smart analysis and clean visuals.
 
-🔹 **Current Project:**  
-![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)  
-Developing a **Burnout Routine Analysis System** to visualize behavioral patterns.  
+## 🛠️ What I Bring to the Table
+- **Python**: OOP mastery + data libraries (Pandas, NumPy, Matplotlib)  
+- **Java**: Building strong fundamentals  
+- **Superpower**: Paper-first problem-solving—logic flows sketched before code hits the screen  
 
-🔹 **Journey so far:**  
-From simple Java programs to Python OOP projects, I enjoy combining **logic**, **structure**, and **creativity** to solve problems.  
+⚡ **Quick win**: My notebook sketches have slashed debugging time by hours!
 
-🔹 **Collaboration & Learning:**  
-Open to collaborating on **Python projects** and improving my understanding of **advanced programming concepts**.  
+## 🌟 Featured Projects
 
-🔹 **Ask me about:**  
-Python libraries (Pandas, NumPy, Matplotlib) and my “dry-run first” approach to problem-solving.  
+### Burnout Routine Analysis System  
+**Tech:** Pandas • NumPy • Matplotlib  
+**What I learned:** Mastered data cleaning with Pandas, array magic with NumPy, and storytelling through Matplotlib visualizations. Built this to spot behavioral patterns and fight burnout—my data science origin story!
 
-⚡ **Fun fact:** I solve logic problems on paper before coding—my dry-run sketches often save hours in debugging!  
+### Counter Manager  
+**Tech:** Python OOP  
+**What I learned:** Classes, inheritance, encapsulation—turned abstract OOP concepts into a working counter system that manages multiple instances flawlessly. OOP clicked when I saw it run!
 
-## 🌐 Socials
+## 📱 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/skfatima144) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Syeda-Kaneez-Fatima) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skaneezfatima188@gmail.com)
 
-## 💻 Tech Stack
+## 🧰 Toolkit
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) *(beginner level)*
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=skfatima-codes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=skfatima-codes&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=skfatima-codes&theme=dark&hide_border=false&include_all_commits=false&layout=compact)
+## 📈 GitHub Pulse
+!<br/>
+!<br/>
+!
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=skfatima-codes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏅 Trophies
+!
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 ---
-[![](https://visitcount.itsvg.in/api?id=skfatima-codes&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitors](https://visitcount.itsvg.in)
